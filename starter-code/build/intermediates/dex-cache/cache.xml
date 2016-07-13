@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_571a02556ab14e48cdd0734653bb4b0e60b55229/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jamesrondina/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_178318b4cd1cefa9398cc4a31e5c2948a346a82d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e610539bebedc094c1a016b73831ce426c4fa314">
+        <dex dex="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2a98dedafe341eb9c2c47e67d88760c10bace21f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_0449bc3460a7aba46f3bf60ac2d68c16f53874f2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_dd718b586c83198b0c0b5352c6dbb0369955abed/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5f6079e08ed819a31079acc7f562fdabe5102d32">
+        <dex dex="/Users/jamesrondina/github/Unit-Testing-Lab/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48a12989ded59c887b0b416e69e3c7832fb9d815/classes.dex" />
+    </item>
+
+</items>

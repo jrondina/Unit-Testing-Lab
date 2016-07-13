@@ -9,7 +9,13 @@ public class Snake extends Reptile{
     public Snake(boolean isPoisonous){
         super(false,5,false,"Snake");
         mIsPoisonous = isPoisonous;
+
     }
+
+    public boolean isPoisonous() {
+        return mIsPoisonous;
+    }
+
 
     @Override
     public String makeNoise() {
